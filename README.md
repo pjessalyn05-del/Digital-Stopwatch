@@ -2,23 +2,53 @@
 
 This project demonstrates basic web development skills, including DOM manipulation, event handling, and styling with CSS. It can be used as a time tracking tool or as a learning exercise for web programming concepts.
 
-Features:
+How to Set Up the Digital Stopwatch
 
-Start the stopwatch
+Create a project folder
 
-Stop the stopwatch
+Name it anything, for example: digital-stopwatch
 
-Reset the stopwatch
+Create your files inside that folder:
 
-Clear and user-friendly interface
+index.html → This is your main HTML file
+
+index.css → For styling
+
+index.js → For JavaScript logic
+
+Copy the code into the respective files:
+
+Paste your HTML code into index.html
+
+Paste your CSS code into index.css
+
+Paste your JS code into index.js
+
+Link your CSS and JS in index.html (if not already):
+
+<link rel="stylesheet" href="index.css">
+<script src="index.js"></script>
 
 
-How to Use:
+Open your stopwatch in a browser
 
-Open index.html in your browser.
+On Windows: double-click index.html
 
-Click Start to begin timing.
+On Mac/Linux: right-click → Open With → Browser
 
-Click Stop to pause the timer.
+Or drag index.html into any browser window
 
-Click Reset to clear the time and start over.
+Start using it
+
+Click Start to run the timer
+
+Click Stop to pause
+
+Click Reset to reset to 00:00:00
+
+Optional: Use VS Code Live Server for auto-refresh:
+
+Install Live Server extension
+
+Right-click index.html → Open with Live Server
+
